@@ -21,7 +21,7 @@
 
 \geometry{margin=2.5cm}
 
-\title{\textbf{Algoritmos 1 - Trabalho Prático 1 }}
+\title{\textbf{"Nome da Matéria"}}
 \author{
     \textbf{Bruno Lopes Melo Fonseca} \\
     Matrícula: 2023087869 \\
@@ -36,3 +36,4 @@
 \begin{document}
 
 \maketitle
+\end{document}
