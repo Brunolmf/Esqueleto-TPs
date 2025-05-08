@@ -1,4 +1,5 @@
 \documentclass[11pt]{article}
+
 \usepackage[utf8]{inputenc}
 \usepackage[brazilian]{babel}
 \usepackage{hyperref}
@@ -7,9 +8,7 @@
 \usepackage{float}
 \usepackage{graphicx}
 \usepackage[skip=5pt plus1pt, indent=20pt]{parskip}
-
 \usepackage{amsthm,amssymb,amsmath}
-
 
 \newtheorem*{theorem}{Theorem}
 
@@ -21,19 +20,24 @@
 
 \geometry{margin=2.5cm}
 
-\title{\textbf{"Nome da Matéria"}}
+\title{\textbf{Algoritmos 1 – Trabalho Prático 1}}
 \author{
-    \textbf{Bruno Lopes Melo Fonseca} \\
-    Matrícula: 2023087869 \\
-    \bigskip
-    Universidade Federal de Minas Gerais (UFMG) \\
-    Belo Horizonte - MG - Brasil \\
-    \href{mailto:email@ufmg.br}{brunolmf@ufmg.br}
+    \textbf{Bruno Lopes Melo Fonseca}\\
+    Matrícula: 2023087869
+    \\
+    \medskip
+    Universidade Federal de Minas Gerais (UFMG)\\
+    Belo Horizonte – MG – Brasil\\
+    \href{mailto:brunolmf@ufmg.br}{brunolmf@ufmg.br}
 }
-\date{}
-
+\date{}  % data vazia
 
 \begin{document}
 
 \maketitle
+
+\section{Parte-1}
+
+\par Brunoooooo
+
 \end{document}
