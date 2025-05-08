@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazilian]{babel}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{geometry}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[skip=5pt plus1pt, indent=20pt]{parskip}
+
+\usepackage{amsthm,amssymb,amsmath}
+
+
+\newtheorem*{theorem}{Theorem}
+
+\newcommand{\NN}{\mathbb{N}}
+\newcommand{\ZZ}{\mathbb{Z}}
+\newcommand{\RR}{\mathbb{R}}
+\newcommand{\QQ}{\mathbb{Q}}
+\newcommand{\CC}{\mathbb{C}}
+
+\geometry{margin=2.5cm}
+
+\title{\textbf{Algoritmos 1 - Trabalho Prático 1 }}
+\author{
+    \textbf{Bruno Lopes Melo Fonseca} \\
+    Matrícula: 2023087869 \\
+    \bigskip
+    Universidade Federal de Minas Gerais (UFMG) \\
+    Belo Horizonte - MG - Brasil \\
+    \href{mailto:email@ufmg.br}{brunolmf@ufmg.br}
+}
+\date{}
+
+
+\begin{document}
+
+\maketitle
