@@ -11,7 +11,7 @@ INCLUDE   := include
 # ARQUIVOS
 SOURCES   := $(wildcard $(SRC)/*.cpp)
 OBJECTS   := $(SOURCES:$(SRC)/%.cpp=$(OBJ)/%.o)
-EXECUTABLE:= tp2.out
+EXECUTABLE:= $(BIN)/tp2.out
 
 # REGRAS PRINCIPAIS
 all: $(EXECUTABLE)
